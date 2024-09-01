@@ -17,7 +17,7 @@
 
 <p align='center'>
 <picture>
-<img src="" />
+<img src="https://github.com/brijeshsrivdev/brijeshsrivdev/blob/main/github-contribution-grid-snake.svg" />
 </picture>
 
 <picture>
