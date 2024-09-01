@@ -1,4 +1,29 @@
-## Hi there 👋
+<h1 align='center'>
+  Hi there 👋 I'm Brijesh👨‍💻
+</h1>
+
+<p align='center'>
+  
+</p>
+
+<p align='center'>
+  <a href="https://medium.com/@brijesh.sriv.misc">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/brijeshsrivastava">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+</p>
+
+<p align='center'>
+<picture>
+<img src="" />
+</picture>
+
+<picture>
+<img src="" />
+</picture>
+</p>
 
 <!--
 **brijeshsrivdev/brijeshsrivdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
